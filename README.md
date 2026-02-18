@@ -1,16 +1,33 @@
-## Hi there 👋
+<h2 align="center">Hi 👋 I'm Vijaylaxmi Karagaon</h2>
+<p align="center">
+Computer Science Engineering Student | Full Stack Developer
+</p>
 
-<!--
-**VijaylaxmiKaragaon/VijaylaxmiKaragaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 CSE student with strong fundamentals in software development  
+- 💻 Interested in Full Stack Development and Backend Technologies  
+- 🌱 Currently learning Cloud & advanced Web technologies  
+- 🚀 Passionate about building scalable and user-friendly applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Java, Python, SQL  
+- **Web:** HTML, CSS, React, Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+- **Airbnb Clone** – Full stack booking platform using MERN stack  
+- **Paddy Crop Disease Detection** – Deep learning based web application  
+- **Employee Attendance System** – Web-based attendance management system  
+
+---
+
+## 📫 Contact
+- 📧 Email: vijaylaxmisk04@gmail.com  
+- 💻 GitHub: https://github.com/VijaylaxmiKaragaon  
+- 
