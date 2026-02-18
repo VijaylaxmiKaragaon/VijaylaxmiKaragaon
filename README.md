@@ -1,11 +1,11 @@
-<h2 align="center">Hi 👋 I'm Vijaylaxmi Karagaon</h2>
-<p align="center">
+<h2>Hi 👋 I'm Vijaylaxmi Karagaon</h2>
+<p>
 Computer Science Engineering Student | Full Stack Developer
 </p>
 
----
+<!---
 
-## 👩‍💻 About Me
+<!--## 👩‍💻 About Me
 - 🎓 CSE student with strong fundamentals in software development  
 - 💻 Interested in Full Stack Development and Backend Technologies  
 - 🌱 Currently learning Cloud & advanced Web technologies  
