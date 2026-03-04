@@ -1,59 +1,40 @@
-<!-- <h2>Hi 👋 I'm Vijaylaxmi Karagaon</h2>
-<p>
-Computer Science Engineering Student | Full Stack Developer
-</p> -->
+<h1 align="center">Hi 👋, I'm Vijaylaxmi Karagaon</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
-<!---
+<br>
 
-<!--## 👩‍💻 About Me
-- 🎓 CSE student with strong fundamentals in software development  
-- 💻 Interested in Full Stack Development and Backend Technologies  
-- 🌱 Currently learning Cloud & advanced Web technologies  
-- 🚀 Passionate about building scalable and user-friendly applications  
+- 🔭 I’m currently working on **Full stack web development**
 
----
+- 🌱 I’m currently learning **Deep Learning & AI model training**
 
-## 🛠️ Technical Skills
-- **Languages:** Java, Python, SQL  
-- **Web:** HTML, CSS, React, Node.js, Express.js, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+- 👯 I’m looking to collaborate on **projects regarding web development**
 
----
+- 📫 How to reach me **yourgmail@gmail.com**
 
-## 📂 Projects
-- **Airbnb Clone** – Full stack booking platform using MERN stack  
-- **Paddy Crop Disease Detection** – Deep learning based web application  
-- **Employee Attendance System** – Web-based attendance management system  
+- 📄 Know about my experiences **[Add Your Resume Link Here]**
 
----
+<br>
 
-## 📫 Contact
-- 📧 Email: vijaylaxmisk04@gmail.com  
-- 💻 GitHub: https://github.com/VijaylaxmiKaragaon  
----->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="(https://www.linkedin.com/in/vijaylaxmi-karagaon-aab764314)" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
-# Hi 👋, I'm Vijaylaxmi
+<br>
 
-### A passionate Full Stack Developer
-
-- 🔭 I’m currently working on MERN Stack projects  
-- 🌱 I’m learning AI & Deep Learning  
-- 🤝 I’m looking to collaborate on Web Development projects  
-- 📫 How to reach me: karagaonvijaylaxmi@gmail.com
-  
----
-
-### 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/vijaylaxmi-karagaon-aab764314)  
-
----
-
-### 🛠️ Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git)
-
----
-
-⭐ Focused on building real-world Full Stack & AI projects.
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>
+</p>
