@@ -9,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects regarding web development**
 
-- 📫 How to reach me **yourgmail@gmail.com**
-
-- 📄 Know about my experiences **[Add Your Resume Link Here]**
+- 📫 How to reach me **karagaonvijaylaxmi@gmail.com**
 
 <br>
 
