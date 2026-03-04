@@ -34,7 +34,7 @@ Computer Science Engineering Student | Full Stack Developer
 
 # Hi 👋, I'm Vijaylaxmi
 
-### A passionate Full Stack Developer from India 🇮🇳
+### A passionate Full Stack Developer
 
 - 🔭 I’m currently working on MERN Stack projects  
 - 🌱 I’m learning AI & Deep Learning  
@@ -53,7 +53,7 @@ Computer Science Engineering Student | Full Stack Developer
 
 ---
 
-⭐ Focused on building real-world Full Stack & AI projects.)  
+⭐ Focused on building real-world Full Stack & AI projects.
 
 ---
 
