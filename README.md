@@ -39,17 +39,8 @@ Computer Science Engineering Student | Full Stack Developer
 - 🔭 I’m currently working on MERN Stack projects  
 - 🌱 I’m learning AI & Deep Learning  
 - 🤝 I’m looking to collaborate on Web Development projects  
-- 📫 How to reach me: yourgmail@gmail.com  
-
----
-
-### A passionate Full Stack Developer from India 🇮🇳
-
-- 🔭 I’m currently working on MERN Stack projects  
-- 🌱 I’m learning AI & Deep Learning  
-- 🤝 I’m looking to collaborate on Web Development projects  
-- 📫 How to reach me: karagaonvijaylaxmi@gmail.com  
-
+- 📫 How to reach me: yourgmail@gmail.com
+  
 ---
 
 ### 🌐 Connect with me:
