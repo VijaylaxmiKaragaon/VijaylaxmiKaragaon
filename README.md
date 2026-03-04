@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijaylaxmi Karagaon</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <br>
 
