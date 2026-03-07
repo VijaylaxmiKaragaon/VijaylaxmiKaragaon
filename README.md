@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full stack web development**
 
-- 🌱 I’m currently learning **Deep Learning & AI model training**
+- ☁️ I’m currently working on **Cloud Computing (AWS) and AI technologies**
 
 - 👯 I’m looking to collaborate on **projects regarding web development**
 
