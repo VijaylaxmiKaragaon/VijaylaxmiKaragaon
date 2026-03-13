@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vijaylaxmi Karagaon</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A passionate Full stack developer | Cloud & AI Enthusiast</h3>
 
 <br>
 
-- 🔭 I’m currently working on **Full stack web development**
+-💻 Developing Full Stack Web Applications
 
-- ☁️ I’m currently working on **Cloud Computing and AI technologies**
+-☁️ Learning and exploring Cloud Computing
+
+-🤖 Working with AI-powered applications
 
 - 👯 I’m looking to collaborate on **projects regarding web development**
 
