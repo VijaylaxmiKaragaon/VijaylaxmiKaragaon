@@ -3,15 +3,15 @@
 
 <br>
 
--💻 Developing Full Stack Web Applications
+- 💻 Currently developing **Full Stack Web Applications**
 
--☁️ Learning and exploring Cloud Computing
+- ☁️ Learning and exploring **Cloud Computing**
 
--🤖 Working with AI-powered applications
+- 🤖 Working with **AI-powered applications**
 
-- 👯 I’m looking to collaborate on **projects regarding web development**
+- 🤝 Looking to collaborate on **Web Development Projects**
 
-- 📫 How to reach me **karagaonvijaylaxmi@gmail.com**
+- 📫 Reach me at **karagaonvijaylaxmi@gmail.com**
 
 <br>
 
