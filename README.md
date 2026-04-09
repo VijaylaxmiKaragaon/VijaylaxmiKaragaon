@@ -39,3 +39,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>
 </p>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijaylaxmiKaragaon&show_icons=true&theme=tokyonight" />
+</p>
+
+<br>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VijaylaxmiKaragaon&theme=tokyonight" />
+</p>
