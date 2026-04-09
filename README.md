@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VijaylaxmiKaragaon&show_icons=true&theme=tokyonight" />
@@ -50,8 +50,8 @@
 
 <br>
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="">🔥 GitHub Streak</h3>
 
-<p align="center">
+<p align="">
   <img src="https://streak-stats.demolab.com?user=VijaylaxmiKaragaon&theme=tokyonight" />
 </p>
