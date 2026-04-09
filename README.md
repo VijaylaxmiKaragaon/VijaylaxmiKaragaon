@@ -21,6 +21,8 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 <a href="https://leetcode.com/u/Vijaylaxmi_Karagaon/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.hackerrank.com/profile/vijaylaxmisk04" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
 
