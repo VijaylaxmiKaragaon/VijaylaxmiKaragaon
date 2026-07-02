@@ -11,7 +11,7 @@
 
 - 🤝 Looking to collaborate on **Web Development Projects**
 
-- 📫 Reach me at **karagaonvijaylaxmi@gmail.com**
+- 📫 Reach me at **vijaylaxmisk04@gmail.com**
 
 <br>
 
