@@ -9,7 +9,7 @@
 
 - 🤖 Working with **AI-powered applications**
 
-- 🤝 Looking to collaborate on **Web Development Projects**
+- 🤝 Looking to collaborate on **Full Stack Development Projects**
 
 - 📫 Reach me at **vijaylaxmisk04@gmail.com**
 
